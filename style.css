@@ -1,0 +1,135 @@
+body {
+    @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+    padding: 5%;
+    background-color: #FFB0FD;
+    height: 720px;
+}
+
+.banner {
+    background-image: url(GitResource/B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    text-align: center;
+    /* width: 1320px; */
+    height: 600px;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    align-items: center;
+}
+
+.banner-item {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+    /* padding: 200px 50px; */
+    font-size: 40px;
+    text-align: center;
+}
+
+.image-new-year {
+    padding-left: 400px;
+}
+
+.midnightpartySection {
+    background-image: url(GitResource/B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    display: flex;
+    color: white;
+    height: 600px;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    padding: 70px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0, 200px;
+}
+
+.midnightPartyItem {
+    padding: 200px;
+}
+
+.btn-Join {
+    color: white;
+    background-color: #FF0000;
+    border-radius: 5px;
+    border: 0;
+    font-size: 30;
+    padding: 18px 35px;
+}
+
+.bonus-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.bonus {
+    background-color: white;
+    padding: 10px;
+    border: 10px darkred solid;
+    border-radius: 244px;
+    padding: 12px;
+    margin-top: 20px;
+}
+
+.bottom-red {
+    display: flex;
+    background-image: url(GitResource/B9A1-New-Year-New-Mission/resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position-y: 390px;
+    /* margin-top: 20px; */
+    margin-top: 150px;
+
+
+}
+
+.more-discount {
+    display: flex;
+    padding: 100px;
+}
+
+.main-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    /* background-color: antiquewhite; */
+    /* width: 1320px; */
+
+}
+
+.main-section img {
+    width: 424px;
+    height: 450px;
+}
+
+.main-image {
+    padding: 20px;
+}
+
+.subscribe-form {
+    background-color: white;
+    border: none;
+    color: gray;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn-search {
+    background-color: #FF0000;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    font-size: 30;
+    padding: 18px 35px;
+    /* border: radius right 50px; */
+
+}
+
+.main-image:hover {
+    background-color: ghostwhite;
+    border-radius: 5px;
+}
